@@ -1,6 +1,6 @@
 #  Projeto GLASS
 
-Esse site foi desenvolvido durante as aulas do curso de HTML 5 do canal [CURSO EM VIDEO](https://www.cursoemvideo.com)! Aulas apresentadas pela professora [@Gustavo Guanabara](https://github.com/gustavoguanabara)!  
+Esse site foi desenvolvido durante as aulas do curso de HTML 5 do canal [CURSO EM VIDEO](https://www.cursoemvideo.com)! Aulas apresentadas pelo professor [@Gustavo Guanabara](https://github.com/gustavoguanabara)!  
 
 ###  As técnologias utilizadas foram:
 
